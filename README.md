@@ -1,16 +1,13 @@
-## Hi there 👋
+Hi, I'm Yoga 👋
 
-<!--
-**yogaaaci/yogaaaci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Data Scientist passionate about turning data into meaningful insights and building machine learning solutions that solve real-world problems.
 
-Here are some ideas to get you started:
+My main interests include:
+- Machine Learning & Predictive Modeling
+- Natural Language Processing (NLP)
+- Computer Vision
+- Data Analysis & Visualization
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy working on end-to-end data projects — from data cleaning and exploration to model development and evaluation.
+
+Currently exploring deeper applications of AI in business and real-world products.
